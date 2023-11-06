@@ -1,0 +1,24 @@
+[
+  {
+    "model": "tutorial.payment",
+    "fields": {
+      "user": 1,
+      "date": "2023-10-31",
+      "course": 1,
+      "lesson": null,
+      "amount": 100.00,
+      "payment_method": "cash"
+    }
+  },
+  {
+    "model": "tutorial.payment",
+    "fields": {
+      "user": 2,
+      "date": "2023-10-30",
+      "course": null,
+      "lesson": 1,
+      "amount": 50.00,
+      "payment_method": "transfer"
+    }
+  }
+]
