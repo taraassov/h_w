@@ -1,0 +1,20 @@
+[
+  {
+    "model": "users.user",
+    "fields": {
+      "email": "user1@example.com",
+      "phone": "123-456-7890",
+      "country": "USA",
+      "avatar": "users/avatar1.jpg"
+    }
+  },
+  {
+    "model": "users.user",
+    "fields": {
+      "email": "user2@example.com",
+      "phone": "987-654-3210",
+      "country": "Canada",
+      "avatar": "users/avatar2.jpg"
+    }
+  }
+]
